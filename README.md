@@ -24,18 +24,20 @@ This Power BI dashboard analyzes Superstore sales and profit across regions, cat
 - Matrix heatmap for State-wise performance
 
 ## 📂 Project Structure
-
+├── data/
+│   └── Sample - Superstore.xlsx
 
 ## 📁 Dataset Source
 Dataset used is publicly available on Kaggle:  
 🔗 [Download from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-You can also find the Excel file in this repo: `/data/Sample - Superstore.xls`
+You can also find the Excel file in this repo: `/data/Sample - Superstore.xlsx`
 
 ## 📸 Dashboard Preview
 ![Sales Dashboard](screenshots/dashboard_full_view.png)
 
 ## 🚀 How to Use
-1. Clone this repo or download the `.pbix` file
-2. Open with Power BI Desktop
-3. Explore visuals and interact with filters
+1. Download the `.pbix` file from this repository
+2. Open it using Power BI Desktop (free from Microsoft)
+3. Explore the interactive visuals, filters, and insights
+
