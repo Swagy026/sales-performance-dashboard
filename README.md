@@ -34,10 +34,12 @@ Dataset used is publicly available on Kaggle:
 You can also find the Excel file in this repo: `/data/Sample - Superstore.xlsx`
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](screenshots/dashboard_full_view.png)
+![Sales Dashboard](screenshots/dashboard-full-view.png)
 
 ## 🚀 How to Use
+
 1. Download the `.pbix` file from this repository
-2. Open it using Power BI Desktop (free from Microsoft)
-3. Explore the interactive visuals, filters, and insights
+2. Open it using **Power BI Desktop**
+3. Use slicers to filter by Region, Category, or Year
+4. Explore KPI cards, trend charts, and heatmap insights
 
