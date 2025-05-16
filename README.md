@@ -30,6 +30,9 @@ This Power BI dashboard analyzes Superstore sales and profit across regions, cat
 ![Sales Dashboard](screenshots/dashboard_full_view.png)
 
 ## 📁 Dataset Source
-[Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+The Superstore dataset used in this project is available publicly on Kaggle:  
+🔗 [Download from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+You can also find the Excel file included in this repository under `/data/Sample - Superstore.xls`.
 
