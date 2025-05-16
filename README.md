@@ -34,7 +34,7 @@ Dataset used is publicly available on Kaggle:
 You can also find the Excel file in this repo: `/data/Sample - Superstore.xlsx`
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](screenshots/dashboard-full-view.png)
+![Sales Dashboard](screenshots/dashboard_full_view.png)
 
 ## 🚀 How to Use
 
