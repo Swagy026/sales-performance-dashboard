@@ -82,5 +82,5 @@ Raw Excel file also included in `/data/`
 ---
 
 📬 **Looking to hire a business-minded analyst who builds clean, data-driven dashboards?**  
-Connect on [LinkedIn](https://www.linkedin.com/in/ashwani-kumar-data-analyst) or email: swagy0695@gmail.com
+Connect on [LinkedIn](https://www.linkedin.com/in/ashwani-kumar-data-analyst) 
 
